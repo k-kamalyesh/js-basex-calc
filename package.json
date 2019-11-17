@@ -1,0 +1,23 @@
+{
+  "name": "js-basex-calc",
+  "version": "1.0.0",
+  "description": "calculator using js-basex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-kamalyesh/js-basex-calc.git"
+  },
+  "author": "Kamalyesh Kannadkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k-kamalyesh/js-basex-calc/issues"
+  },
+  "homepage": "https://github.com/k-kamalyesh/js-basex-calc#readme",
+  "dependencies": {
+    "basex": "github:k-kamalyesh/js-basex#master",
+    "node": "^13.1.0"
+  }
+}
